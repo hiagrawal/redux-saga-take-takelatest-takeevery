@@ -23,12 +23,21 @@ const App = props => {
 //   return <UseEffectExample />;
 // };
 
-//rendering custome useFetch hook example
+//rendering custom useFetch hook example
 // const App = props => {
 //   return (
 //     <div className='App'>
 //       <User userId={5} />
 //       <Post postId={15} />
+//     </div>
+//   );
+// };
+
+//rendering useReducer hook example
+// const App = props => {
+//   return (
+//     <div className='App'>
+//       <UseReducerExample />
 //     </div>
 //   );
 // };
